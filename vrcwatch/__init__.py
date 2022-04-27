@@ -1,0 +1,1 @@
+from vrcwatch.__main__ import *

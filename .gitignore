@@ -1,3 +1,9 @@
 /.venv/
 __pycache__/
 *.pyc
+
+venv/
+build/
+dist/
+*.manifest
+*.spec

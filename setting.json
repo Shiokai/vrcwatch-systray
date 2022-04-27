@@ -1,0 +1,8 @@
+{
+    "address": "127.0.0.1",
+    "port": 9000,
+    "sync": 5.0,
+    "degital_interval": 1.0,
+    "analog_interval": 0.1,
+    "with_analog": true
+}
