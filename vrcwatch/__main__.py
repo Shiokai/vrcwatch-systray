@@ -104,7 +104,7 @@ analog: {parameters.with_analog}
 
         while True:
             now = datetime.now()
-            year.send(now.year)
+            year.send(now.year - 2000)
             month.send(now.month)
             day.send(now.day)
             weekday.send(now.weekday())
